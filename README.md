@@ -1,2 +1,2 @@
-# High-tech-placement
-Chana Bergman High-tech placement
+# CV Management System
+Chana Bergman CV Management System
